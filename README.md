@@ -41,3 +41,5 @@ public class Main {
         orderService.processOrder(200.0);  // Procesando pago con PayPal: 200.0
     }
 }
+![WhatsApp Image 2024-10-10 at 5 55 13 PM](https://github.com/user-attachments/assets/e3430b03-2884-4f3e-b967-fcbc7fa1bb1c)
+
